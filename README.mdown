@@ -3,7 +3,7 @@ About this sample project
 
 This sample project shows you how to create PDF files on iPhone device. The sample uses [libHaru](http://libharu.org/ "libHaru") as the PDF generator so you can create any kind of PDF files libHaru can produce. For more information, visit [libHaru](http://libharu.org/ "libHaru") webpage. 
 
-The Xcode project has been created with Xcode 3.2.1/iPhone SDK 3.1.2 . I think sure any versions of Xcode/iPhone SDK 3.0 or later can build this sample but not tested.
+The Xcode project has been created with Xcode 3.2.1/iPhone SDK 3.1.2 . I think any versions of Xcode/iPhone SDK 3.0 or later can build this sample, but not officialy tested.
 
 
 How to run the sample
