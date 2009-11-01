@@ -1,4 +1,8 @@
-This sample project is licensed under the ZLIB/LIBPNG License since libHaru, which is vital for this sample, is also licensed under it. For more information about libHaru license, visit http://libharu.org/wiki/FAQ .
+Since libHaru, which is vital for this sample, is licensed under the ZLIB/LIBPNG License,
+I respect the original. This project is also licensed under the ZLIB/LIBPNG License.
+For more information about libHaru License, visit http://libharu.org/wiki/FAQ .
+For more information about ZLIB/LIBPNG License, http://www.gzip.org/zlib/zlib_license.html and
+http://www.libpng.org/pub/png/src/libpng-LICENSE.txt .
 
 
 Copyright (C) 2009 Masashi Ono 
