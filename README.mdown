@@ -1,0 +1,16 @@
+About this sample project
+=========================
+
+This sample project shows you how to create PDF files on iPhone device. The sample uses libHaru(http://libharu.org/) as the PDF generator so you can create any kind of PDF files libHaru can produce.
+
+The Xcode project has been created with Xcode 3.2.1/iPhone SDK 3.1.2 . I think sure any versions of Xcode/iPhone SDK 3.0 or later can build this sample but not tested.
+
+
+How to run the sample
+=====================
+
+1. run `git pull` or just download via web browser.
+2. open xcode project.
+3. speficify your own iPhone Development Code Sign (from build settings)
+4. run build!
+
