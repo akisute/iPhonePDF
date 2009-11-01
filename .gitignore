@@ -1,0 +1,10 @@
+# osx noise files
+.DS_Store
+profile
+ 
+# xcode noise files
+build/*
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+

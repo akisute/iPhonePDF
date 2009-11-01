@@ -1,0 +1,18 @@
+//
+// Prefix header for all source files of the 'Meisi' target in the 'Meisi' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+// Debug logger.
+// Add "DEBUG" definition first at the "Edit Active Target... > GCC_PREPROCESSOR_DEFINITIONS for debug build.
+#ifdef DEBUG
+#  define LOG(...) NSLog(__VA_ARGS__)
+#  define LOG_CURRENT_METHOD NSLog(@"%@", NSStringFromSelector(_cmd))
+#else
+#  define LOG(...) ;
+#  define LOG_CURRENT_METHOD ;
+#endif
